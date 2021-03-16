@@ -1,5 +1,5 @@
 import React from "react";
-function Main(props) {
+function About(props) {
   return <div> dadadada</div>;
 }
-export default Main;
+export default About;
